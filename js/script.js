@@ -47,23 +47,23 @@
 
   var imagenesReales = [
   {src:"imagenes/retrato-abuela.webp", cat:"retratos",    title:"Retrato a lápiz"},
-  {src:"imagenes/retrato-abuela-lapiz.jpeg", cat:"caricaturas", title:"Caricatura de cumpleaños"},
+  {src:"imagenes/retrato-abuela-lapiz.webp", cat:"caricaturas", title:"Caricatura de cumpleaños"},
   {src:"imagenes/retrato-abuela-perfil.webp", cat:"parejas",     title:"Retrato de pareja"},
-  {src:"imagenes/retrato-abuelo-lapiz.jpeg", cat:"retratos",    title:"Retrato a lápiz"},
+  {src:"imagenes/retrato-abuelo-lapiz.webp", cat:"retratos",    title:"Retrato a lápiz"},
   {src:"imagenes/retrato-acuarela-perfil.webp", cat:"caricaturas", title:"Caricatura de cumpleaños"},
   {src:"imagenes/retrato-frontal-lapiz.webp", cat:"parejas",     title:"Retrato de pareja"},
   {src:"imagenes/retrato-iaio-lapiz.webp", cat:"retratos",    title:"Retrato a lápiz"},
   {src:"imagenes/retrato-iaio-perfil.webp", cat:"caricaturas", title:"Caricatura de cumpleaños"},
-  {src:"imagenes/retrato-lapiz-abuelo.jpeg", cat:"parejas",     title:"Retrato de pareja"},
-  {src:"imagenes/retrato-lapiz-perfil.jpeg", cat:"retratos",    title:"Retrato a lápiz"},
-  {src:"imagenes/retrato-lapiz-señor.jpeg", cat:"caricaturas", title:"Caricatura de cumpleaños"},
+  {src:"imagenes/retrato-lapiz-abuelo.webp", cat:"parejas",     title:"Retrato de pareja"},
+  {src:"imagenes/retrato-lapiz-perfil.webp", cat:"retratos",    title:"Retrato a lápiz"},
+  {src:"imagenes/retrato-lapiz-señor.webp", cat:"caricaturas", title:"Caricatura de cumpleaños"},
   {src:"imagenes/retrato-perfil-acuarela.webp", cat:"parejas",     title:"Retrato de pareja"},
   {src:"imagenes/retrato-perfil-iaio.webp", cat:"retratos",    title:"Retrato a lápiz"},
-  {src:"imagenes/caricatura-serie-animada.jpeg", cat:"caricaturas", title:"Caricatura de cumpleaños"},
+  {src:"imagenes/caricatura-serie-animada.webp", cat:"caricaturas", title:"Caricatura de cumpleaños"},
   {src:"imagenes/retrato-perfil-señor-lapiz.webp", cat:"parejas",     title:"Retrato de pareja"},
   {src:"imagenes/retrato-señora.webp", cat:"retratos",    title:"Retrato a lápiz"},
   {src:"imagenes/retrato-señora-perfil.webp", cat:"caricaturas", title:"Caricatura de cumpleaños"},
-  {src:"imagenes/retrato-señor-perfil.jpeg", cat:"parejas",     title:"Retrato de pareja"},
+  {src:"imagenes/retrato-señor-perfil.webp", cat:"parejas",     title:"Retrato de pareja"},
   ];
 var items = imagenesReales.map(function(img, i){
   return {
